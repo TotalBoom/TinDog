@@ -51,8 +51,11 @@ h1{
 /* Features */
 
 #features{
-    padding: 100px 0 100px 0;
+    padding: 7% 15%;
+}
+.featureBox{
     text-align: center;
+    padding: 5%;
 }
 #features h3{
     font-family: "Montserrat", sans-serif;
@@ -64,7 +67,7 @@ h1{
 }
 .featureIcons{
     color: #ef8172;
-    padding: 20px;
+    padding-bottom: 10%;
 }
 .featureIcons:hover{
     color: #ff4c68;
